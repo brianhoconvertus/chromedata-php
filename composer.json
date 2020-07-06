@@ -3,7 +3,7 @@
     "description": "PHP API binding for ChromeData ADS and Incentives",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "~6.0.0",
+        "guzzlehttp/guzzle": "~6.1.0",
         "meng-tian/async-soap-guzzle": "^0.2",
         "php": ">=6.1.0"
     },
